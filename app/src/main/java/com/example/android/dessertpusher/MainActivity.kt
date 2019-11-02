@@ -85,6 +85,7 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
     override fun onStart() {
         super.onStart()
         Log.i("MainActivity", "onStart called")
+        Log.i("MainActivity", "onStart called")
     }
 
     /**
